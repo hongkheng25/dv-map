@@ -1,5 +1,6 @@
 streamlit
 geopandas
 matplotlib
+numpy
 folium
 st_folium
