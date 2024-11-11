@@ -2,3 +2,4 @@ streamlit
 geopandas
 matplotlib
 folium
+st_folium
